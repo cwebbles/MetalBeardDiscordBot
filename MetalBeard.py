@@ -2,8 +2,8 @@ import discord
 import openai
 import os
 
-OPEN_AI_KEY = "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"
-DISCORD_TOKEN = 'MTA5ODYzMDA0OTg3MzI2ODg3Nw.GkSemS.4dxFLX_228hggJzaMeLfJu2ChzzQ1niW8HqED4'
+OPEN_AI_KEY = "{insert_key_here}"
+DISCORD_TOKEN = '{insert_key_here}'
 
 intents = discord.Intents.default()
 intents.guild_messages = True
